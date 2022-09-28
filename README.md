@@ -6,6 +6,7 @@ la finalidad del proyecto es  la creacion de un sitio WEB  para dar a conocer lo
 ##  agradecimiento
 
 https://github.com/fhernandezpalafox
+
 https://github.com/rjoelgs
 
 ##autor
